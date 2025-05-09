@@ -26,10 +26,9 @@ const SharedNotes = ({ sharedNotes, handleAcceptAndNavigate }) => {
                   {shared.title}
                 </h3>
                 <span className="text-[10px] text-gray-500 text-right w-[30%] truncate">
-                  Shared by: {shared.sharedByUsername || "Unknown"}
+                  Shared by: {shared.sharedByUsername || "Siva"}
                 </span>
               </div>
-
               <div
                 className="text-gray-800 text-[12px] leading-snug mt-1 prose prose-sm"
                 style={{
