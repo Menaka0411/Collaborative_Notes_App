@@ -18,23 +18,27 @@ A powerful and modern **Collaborative Notes Application** built with React. This
 
 ## 📷 Screenshots
 
-### 📄 Dashboard – Notes Overview
-![Dashboard Screenshot](./screenshots/dashboard.png)
+### Dashboard – Notes Overview
+![Dashboard Screenshot](./Screenshots/Screenshot (529).png)
 
-### 📝 Rich Text Editor
-![Editor Screenshot](./screenshots/editor.png)
+### Rich Text Editor
+![Editor Screenshot](./Screenshots/Screenshot (531).png)
 
-### 🔗 Share Note Modal
-![Share Modal Screenshot](./screenshots/share-modal.png)
+### View Note Modal
+![View Modal Screenshot](./Screenshots/Screenshot (533).png)
 
-> 💡 You can replace these screenshots with your actual UI captures in the `/screenshots` folder.
+### Edit Note Modal
+![Edit Modal Screenshot](./Screenshots/Screenshot (534).png)
+
+### Sahare Note Modal
+![Share Modal Screenshot](./Screenshots/Screenshot (540).png)
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19.1.0, Tailwind CSS, React Icons
-- **Editor**: TinyMCE (`@tinymce/tinymce-react`)
+- **Editor**: TipTap (`@tiptap/tiptap-react`)
 - **State Management**: React useState/useContext
 - **Real-Time (optional)**: Socket.io / Firebase / Supabase
 - **Backend** (optional): Node.js, Express.js, MongoDB
