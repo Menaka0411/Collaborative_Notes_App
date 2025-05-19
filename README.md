@@ -31,7 +31,7 @@ A powerful and modern **Collaborative Notes Application** built with React. This
 ![Edit Modal Screenshot](./screenshots/Edit.png)
 
 ### Sahare Note Modal
-![Share Modal Screenshot](./screenshots/Sahre.png)
+![Share Modal Screenshot](./screenshots/Share.png)
 
 ---
 
