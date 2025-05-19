@@ -19,19 +19,19 @@ A powerful and modern **Collaborative Notes Application** built with React. This
 ## 📷 Screenshots
 
 ### Dashboard – Notes Overview
-![Dashboard Screenshot](./Screenshots/Screenshot (529).png)
+![Dashboard Screenshot](./screenshots/Dashboard.png)
 
 ### Rich Text Editor
-![Editor Screenshot](./Screenshots/Screenshot (531).png)
+![Editor Screenshot](./screenshots/Editor.png)
 
 ### View Note Modal
-![View Modal Screenshot](./Screenshots/Screenshot (533).png)
+![View Modal Screenshot](./screenshots/View.png)
 
 ### Edit Note Modal
-![Edit Modal Screenshot](./Screenshots/Screenshot (534).png)
+![Edit Modal Screenshot](./screenshots/Edit.png)
 
 ### Sahare Note Modal
-![Share Modal Screenshot](./Screenshots/Screenshot (540).png)
+![Share Modal Screenshot](./screenshots/Sahre.png)
 
 ---
 
